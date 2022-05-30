@@ -3,6 +3,8 @@
 
 <img src="./src/assets/Code_Burger_Shop.gif"  width="600px" alt="Project-Video">
 
+<p>Video of the project's api</p>
+
 <h2>project's goal</h2> 
 
 The main goal of the project is the optimized order annotation of a hamburger restaurant.
